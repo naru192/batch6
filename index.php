@@ -9,5 +9,5 @@ spl_autoload_register(function($clname){
        require_once("app/libs/$clname.php");
 });
 $obj=new Autoload();
-?>
+
 
