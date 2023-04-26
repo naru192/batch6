@@ -9,4 +9,4 @@ class Salary extends Model{
 
 
 
-kkikhihi
+

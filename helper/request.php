@@ -21,8 +21,7 @@ function request($key=''){
      return $robj;
 }
 ?>
-efefefefe
-<h1>eifehif</h1>
+
 
 
 

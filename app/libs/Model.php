@@ -80,9 +80,7 @@ class Model extends PDO{
 
 }
 ?>
-h
 
-fe
 
 
 
